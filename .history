@@ -1,0 +1,4 @@
+ls | wc  
+ls | wc | cd ..  
+cd MiniShell  
+eixt  
